@@ -1,0 +1,24 @@
+{
+  "name": "mini_mean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdwbkny/mini_mean.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdwbkny/mini_mean/issues"
+  },
+  "homepage": "https://github.com/mdwbkny/mini_mean#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+    "angular.module('flapperNews', ['ui.router'])"
+  }
+}
